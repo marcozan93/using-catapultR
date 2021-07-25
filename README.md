@@ -1,4 +1,8 @@
 # using-catapultR
+
+Info about the package can be found in:
+http://catapultr.catapultsports.com/
+
 This is an example of how catapultR package is used in practice in a professional rugby union club competing in the English Gallagher Premiership.
 
 NB: catapultR is available exclusively for Catapult Sports clients.
